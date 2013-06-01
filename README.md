@@ -19,7 +19,7 @@ Currently, wsdoc is available in source format only. To install, you'll need mvn
     cd wsdoc
     mvn package
 
-Once you've done this, the wsdoc jar will be available in `target//versly-wsdoc-1.0-SNAPSHOT.jar`.
+Once you've done this, the wsdoc jar will be available in `target/versly-wsdoc-1.0-SNAPSHOT.jar`.
 
 <a id="running"/>
 #### Running wsdoc
